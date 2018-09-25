@@ -1,0 +1,4 @@
+C:\Users\shivam\source\Assignment\Assignment\Geometry\obj\Debug\cs_con_Geometry.csprojAssemblyReference.cache
+C:\Users\shivam\source\Assignment\Assignment\Geometry\obj\Debug\cs_con_Geometry.csproj.CoreCompileInputs.cache
+C:\Users\shivam\source\Assignment\Assignment\Assignment\obj\Debug\cs_con_Geometry.csprojAssemblyReference.cache
+C:\Users\shivam\source\Assignment\Assignment\Assignment\obj\Debug\cs_con_Geometry.csproj.CoreCompileInputs.cache
